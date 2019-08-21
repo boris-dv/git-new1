@@ -1,1 +1,2 @@
 echo %computername%
+exit
